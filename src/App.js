@@ -11,7 +11,7 @@ import {
 
 const App = () => {
   return (
-    <BrowserRouter basename="/React-Youtube-clone">
+    <BrowserRouter>
       <Box sx={{ backgroundColor: "white" }}>
         <NavBar />
         <h2>Test test =</h2>
